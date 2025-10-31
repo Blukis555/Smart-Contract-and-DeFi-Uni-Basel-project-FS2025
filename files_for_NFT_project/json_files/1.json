@@ -1,0 +1,15 @@
+{
+  "name": "Test NFT #1",
+  "description": "Test NFT for collateral",
+  "image": "https://raw.githubusercontent.com/Blukis555/Smart-Contract-and-DeFi-Uni-Basel-project-FS2025/main/files_for_NFT_project/img_files/Test_NFT.png",
+  "attributes": [
+    {
+      "trait_type": "Backgroun",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Text",
+      "value": "Black"
+    }
+  ]
+}
